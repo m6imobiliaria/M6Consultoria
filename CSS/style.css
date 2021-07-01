@@ -1,0 +1,115 @@
+*{
+    margin: 1px;
+    padding:1px;
+}
+
+    .container {
+        width: 100%;
+        height: 100%;
+        padding: none;
+        display:inline-block;
+        background-image: url("/Images/fundos.jpg.jpg");
+        background-size: cover;
+
+        
+    }
+       .logo{
+        width: 250px;
+        padding-top: 0;
+        margin-top: 2px;
+        margin: auto;
+        border-radius: 20%;
+                             
+    }
+   .arroba {
+     margin-left: 10px;
+     margin-right: 10px;
+    width: 30px;
+    height: 30px;
+    position: right;
+    margin: 0;
+      }
+    .whats {
+        width: 30px;
+        height: 30px;
+        text-align:right;
+        margin: 0;
+        }
+  .Serv {
+    padding: 20px;
+    margin-bottom: 30px;
+    color:#3f3d3d;
+    display: inline-block;
+    list-style-position: inside;
+    width: 83%;
+    height: 50%;
+    background-color: #eecfba;
+    opacity: 90%;
+    text-align: justify;
+    font-size: 22px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(216, 154, 110);
+        }
+      .chave {
+      display: inline-block;
+      background-position: right;
+      height: 250px;
+      padding: 0;
+        }
+        .Simula{
+    display:inline-block;
+    padding: 20px;
+    margin-bottom: 30px;
+    color:#3f3d3d;
+    font-size: 22px;
+    width: 83%;
+    height: 50%;
+    background-color: #eecfba;
+    opacity: 90%;
+    text-align:justify;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(216, 154, 110)
+        }   
+        .simulacao{
+      display: inline-block;
+      background-position: right;
+      height: 250px;
+      padding: 0;
+        }
+   .contato{
+    padding: 20px;
+    display:inline-block;
+    color:#3f3d3d;
+    font-size: 22px;
+    list-style-position: inside;
+    width: 83%;
+    height: 50%;
+    background-color: #eecfba;
+    opacity: 90%;
+    text-align:justify;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(216, 154, 110)
+    }
+    .contact {
+      display: inline-block;
+      background-position: right;
+      height: 250px;
+      padding: 0;
+    }
+    #titulo {
+      text-align: center;
+      font-weight: 700;
+      font-size: 26px;
+      text-decoration:underline;
+    }
+      
+  #fundos{
+    background-size:cover;
+    width: 100%;
+    height: 100%;
+    opacity: 80%;
+    padding: none;
+}  
